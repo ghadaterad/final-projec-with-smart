@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    transition:.25 ease-in-out;
     font-family: "Open Sans", sans-serif;
 }
 
