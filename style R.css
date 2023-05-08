@@ -1,4 +1,7 @@
 @media (max-width:1175px) {
+    .header{
+        height: 40vh;
+    }
     .nav ul{
         width: 100%;
     }
@@ -26,7 +29,7 @@
 }
 @media (max-width:842px) {
     .header{
-        height: 50vh;
+        height: 30vh;
     }
     .about-img img{
         width: 80vw;
