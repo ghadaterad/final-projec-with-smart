@@ -161,6 +161,8 @@ background-color: #000000c4;
 .about-left {
     display: flex;
     flex-wrap: wrap;
+    margin-top: 20px;
+
 }
 
 .about-z-index {
@@ -328,6 +330,8 @@ background-color: #000000c4;
     display: flex;
     flex-direction: row;
     justify-content: center;
+    padding-top: 10px;
+
 }
 
 .what-head hr {
